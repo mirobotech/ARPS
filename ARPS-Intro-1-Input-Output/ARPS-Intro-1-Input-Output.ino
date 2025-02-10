@@ -1,7 +1,7 @@
 /*
 Project:  ARPS-Intro-1-Input-Output
 Activity: mirobo.tech/arps-intro-1
-Updated:  February 4, 2025
+Updated:  February 10, 2025
  
 This introductory programming activity for the mirobo.tech ARPS circuit
 demonstrates pushbutton input, LED outut, the use of time delay functions,
